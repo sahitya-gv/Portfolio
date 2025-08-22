@@ -10,7 +10,7 @@ body {
   line-height: 1.6;
 }
 header {
-  background: rgb(93, 160, 231); 
+  background: rgb(37, 125, 220); 
   color: white;
   padding: 32px 16px;   
   text-align: center;
@@ -19,7 +19,7 @@ section {
   padding: 32px 10%;
 }
 h2 {
-  color: rgb(93, 160, 231);
+  color: rgb(59, 140, 226);
   margin-bottom: 16px;  
   border-bottom: 2px solid gainsboro;
   padding-bottom: 8px;   
